@@ -6,4 +6,4 @@ The project involves creating a server environment with Active Directory, a back
 **Installation:**
 
 1. [Click here to view pdf](https://github.com/zahidmm/Final-Project/blob/main/Zahid%20Mammadli%20Project.docx.pdf)
-2. [Watch Group policy video](https://github.com/zahidmm/Final-Project/blob/main/GPO%20Video.mp4)https://github.com/zahidmm/Final-Project/blob/main/GPO%20Video.mp4
+2. [Watch Group policy video](https://github.com/zahidmm/Final-Project/blob/main/GPO%20Video.mp4)
